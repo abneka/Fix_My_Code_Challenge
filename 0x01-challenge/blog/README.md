@@ -10,7 +10,7 @@ Blog application:
 
 ## How to run the server
 
-`$ rails s -b 0.0.0.0 -p 5000`
+`
 
 ## How to start the rails console
 
@@ -18,5 +18,4 @@ Blog application:
 
 ## Admin account
 
-- email: `hbtn@hbtn.io`
-- password: `toto1234`
+
